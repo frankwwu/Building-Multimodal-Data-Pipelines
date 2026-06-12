@@ -45,8 +45,9 @@ Data engineers and ML practitioners who want to extend their pipelines beyond st
 ## Instructor
 
 **Gilberto Hernandez**,
-Lead Developer Advocate at [nowflake](https://www.snowflake.com/)  \&nbsp;\&nbsp; \[!\[LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/gilberto-hernandez/) 
 
+Lead Developer Advocate at [Snowflake](https://www.snowflake.com/) ·
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilberto-hernandez/)
 
 
 https://learn.deeplearning.ai/courses/building-multimodal-data-pipelines/information
